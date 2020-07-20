@@ -99,9 +99,9 @@
 
 </dependencies>
 	<scm>
-       <connection>scm:https://github.com/rshruti/parking_backend.git</connection>
-       <url>https://github.com/rshruti/parking_backend.git</url>
-       <developerConnection>scm:git:https://github.com/rshruti/parking_backend.git</developerConnection>
+       <connection>scm:https://github.com/Dksha123/parking_backend.git</connection>
+       <url>https://github.com/Dksha123/parking_backend.git</url>
+       <developerConnection>scm:git:https://github.com/Dksha123/parking_backend.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
      <distributionManagement>
